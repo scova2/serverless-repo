@@ -1,1 +1,2 @@
 ## About Me
+A recent graduate from the University of Illinois at Chicago with a degree in Computer Science with the Software concentration. I am looking to continue strengthen my understanding and believe in Computer Science programming. Some of the programming languages that I am familiar with are Python, Java, C++. C, HTML, CSS and a little of JavaScript. Also, in my spear time I like to spend it with my family and friends. 
